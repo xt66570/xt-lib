@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d07fbf64-b712-4dbb-84c4-efbf3b03fc6b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-api/src/main/java/com/xt/lib/api/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-api/src/main/java/com/xt/lib/api/model/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-dao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/java/com/xt/lib/dao/dataobject/UserDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/java/com/xt/lib/dao/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/java/com/xt/lib/demos/web/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/java/com/xt/lib/mybatis/config/MybatisDemoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/java/com/xt/lib/mybatis/entity/MybatisDemoUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/java/com/xt/lib/mybatis/mapper/MybatisDemoUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/resources/mappers/MybatisDemoUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/resources/mappers/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-manager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-service/src/main/java/com/xt/lib/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-web/src/main/java/com/xt/lib/demos/web/BasicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-web/src/main/java/com/xt/lib/demos/web/PathVariableController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-web/src/main/java/com/xt/lib/mybatis/controller/MybatisDemoUserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-web/src/main/java/com/xt/lib/web/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib-web/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/start/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/start/src/main/java/com/xt/lib/LibApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/start/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/start/src/test/java/com/xt/lib/LibApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1u1INHXSXegplhxPtqqVchN8v6S" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d07fbf64-b712-4dbb-84c4-efbf3b03fc6b" name="Default Changelist" comment="" />
+      <created>1623826626828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623826626828</updated>
+      <workItem from="1623826631216" duration="479000" />
+      <workItem from="1623827221523" duration="553000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="249" key="SettingsEditor" timestamp="1623827774987">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="423" y="249" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1623827774987" />
+  </component>
+</project>
