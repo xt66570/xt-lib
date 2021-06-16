@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib-api/lib-api.iml" filepath="$PROJECT_DIR$/lib/lib-api/lib-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib-dao/lib-dao.iml" filepath="$PROJECT_DIR$/lib/lib-dao/lib-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib-manager/lib-manager.iml" filepath="$PROJECT_DIR$/lib/lib-manager/lib-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib-service/lib-service.iml" filepath="$PROJECT_DIR$/lib/lib-service/lib-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib-web/lib-web.iml" filepath="$PROJECT_DIR$/lib/lib-web/lib-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/start/start.iml" filepath="$PROJECT_DIR$/lib/start/start.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/xt-lib.iml" filepath="$PROJECT_DIR$/.idea/xt-lib.iml" />
     </modules>
   </component>
