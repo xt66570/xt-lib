@@ -3,4 +3,18 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lib/lib-api/pom.xml" />
+        <option value="$PROJECT_DIR$/lib/lib-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/lib/lib-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/lib/lib-service/pom.xml" />
+        <option value="$PROJECT_DIR$/lib/lib-web/pom.xml" />
+        <option value="$PROJECT_DIR$/lib/start/pom.xml" />
+        <option value="$PROJECT_DIR$/lib/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
