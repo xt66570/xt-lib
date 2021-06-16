@@ -19,43 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d07fbf64-b712-4dbb-84c4-efbf3b03fc6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-api/src/main/java/com/xt/lib/api/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-api/src/main/java/com/xt/lib/api/model/UserModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-dao/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/java/com/xt/lib/dao/dataobject/UserDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/java/com/xt/lib/dao/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/java/com/xt/lib/demos/web/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/java/com/xt/lib/mybatis/config/MybatisDemoConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/java/com/xt/lib/mybatis/entity/MybatisDemoUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/java/com/xt/lib/mybatis/mapper/MybatisDemoUserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/resources/mappers/MybatisDemoUserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/resources/mappers/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-dao/src/main/resources/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-manager/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-service/src/main/java/com/xt/lib/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-web/src/main/java/com/xt/lib/demos/web/BasicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-web/src/main/java/com/xt/lib/demos/web/PathVariableController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-web/src/main/java/com/xt/lib/mybatis/controller/MybatisDemoUserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-web/src/main/java/com/xt/lib/web/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib-web/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/start/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/start/src/main/java/com/xt/lib/LibApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/start/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/start/src/test/java/com/xt/lib/LibApplicationTests.java" afterDir="false" />
+    <list default="true" id="d07fbf64-b712-4dbb-84c4-efbf3b03fc6b" name="Default Changelist" comment="feat version1.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,8 +67,30 @@
       <option name="presentableId" value="Default" />
       <updated>1623826626828</updated>
       <workItem from="1623826631216" duration="479000" />
-      <workItem from="1623827221523" duration="553000" />
+      <workItem from="1623827221523" duration="1959000" />
     </task>
+    <task id="LOCAL-00001" summary="feat version1.0">
+      <created>1623827900775</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623827900775</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat version1.0">
+      <created>1623827936584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623827936584</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat version1.0">
+      <created>1623828074812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623828074812</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,17 +101,31 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat version1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat version1.0" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="423" y="249" key="SettingsEditor" timestamp="1623827774987">
+    <state x="423" y="291" key="SettingsEditor" timestamp="1623828361713">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="423" y="249" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1623827774987" />
+    <state x="423" y="291" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1623828361713" />
+    <state x="1380" y="388" key="git4idea.merge.GitPullDialog" timestamp="1623828488915">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1380" y="388" key="git4idea.merge.GitPullDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1623828488915" />
   </component>
 </project>
