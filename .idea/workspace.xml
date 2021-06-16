@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d07fbf64-b712-4dbb-84c4-efbf3b03fc6b" name="Default Changelist" comment="feat version1.0">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d07fbf64-b712-4dbb-84c4-efbf3b03fc6b" name="Default Changelist" comment="feat version1.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1623826626828</updated>
       <workItem from="1623826631216" duration="479000" />
-      <workItem from="1623827221523" duration="1959000" />
+      <workItem from="1623827221523" duration="2416000" />
     </task>
     <task id="LOCAL-00001" summary="feat version1.0">
       <created>1623827900775</created>
@@ -90,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623828074812</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat version1.0">
+      <created>1623838787094</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623838787094</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +128,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="423" y="291" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1623828361713" />
+    <state x="668" y="230" key="Vcs.Push.Dialog.v2" timestamp="1623838791141">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="668" y="230" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1623838791141" />
     <state x="1380" y="388" key="git4idea.merge.GitPullDialog" timestamp="1623828488915">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
